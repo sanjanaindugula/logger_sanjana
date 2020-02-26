@@ -1,0 +1,18 @@
+2020-02-26 22:45:20 INFO  cleancode_s.interest :15 - Simple interest is calculated
+2020-02-26 22:45:20 DEBUG cleancode_s.interest :16 - 9000.0
+2020-02-26 22:45:20 WARN  cleancode_s.interest :17 - No warnings in Simple interest and calculated
+2020-02-26 22:45:20 ERROR cleancode_s.interest :18 - No errors in Simple interest and calculated
+2020-02-26 22:45:20 INFO  cleancode_s.interest :23 - Simple interest is calculated
+2020-02-26 22:45:20 DEBUG cleancode_s.interest :24 - 1333.0992
+2020-02-26 22:45:20 WARN  cleancode_s.interest :25 - No warnings in compound interest and calculated
+2020-02-26 22:45:20 ERROR cleancode_s.interest :26 - No errors in compound interest and calculated
+2020-02-26 22:45:20 INFO  cleancode_s.House :15 - House construction with Standard material is calculated
+2020-02-26 22:45:20 INFO  cleancode_s.interest :15 - Simple interest is calculated
+2020-02-26 22:45:20 DEBUG cleancode_s.interest :16 - 9000.0
+2020-02-26 22:45:20 WARN  cleancode_s.interest :17 - No warnings in Simple interest and calculated
+2020-02-26 22:45:20 ERROR cleancode_s.interest :18 - No errors in Simple interest and calculated
+2020-02-26 22:45:20 INFO  cleancode_s.interest :23 - Simple interest is calculated
+2020-02-26 22:45:20 DEBUG cleancode_s.interest :24 - 1333.0992
+2020-02-26 22:45:20 WARN  cleancode_s.interest :25 - No warnings in compound interest and calculated
+2020-02-26 22:45:20 ERROR cleancode_s.interest :26 - No errors in compound interest and calculated
+2020-02-26 22:45:20 INFO  cleancode_s.House :15 - House construction with Standard material is calculated
